@@ -18,7 +18,7 @@ const Header = () => {
         className="px-10 py-3 border rounded-full bg-gradient-to-r from-[#b820e6] to-[#da7d20] text-white flex items-center gap-2 dark:border-transparent">
         contact me <img src={right_arrow_white} alt="" className="w-4"/></a>
 
-        <a href="https://drive.google.com/file/d/1a6qxDnJ2p-ZImpAJJiN513VGlL1goyAJ/view?usp=drive_link" download
+        <a href="https://drive.google.com/file/d/1jK6K4gkjcMUKMmO10ga3hHMxXEI8E4WW/view?usp=drive_link" download
         className="flex items-center gap-2 px-10 py-3 bg-white border border-gray-500 rounded-full dark:text-black">
         my resume <img src={download_icon} alt="" className="w-4"/></a>
     </div>
