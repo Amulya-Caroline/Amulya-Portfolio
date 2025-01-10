@@ -14,8 +14,8 @@ const Services = () => {
                     <div data-aos="fade-right" className="flex items-center space-x-2">
 
                         <img src={cal1} alt="" className="w-4" />
-                        <p className="text-sm leading-3 text-gray-600 dark:text-white/80">March 2023-Present</p></div>
-                    <h3 data-aos="fade-right" className="my-4 text-lg text-gray-700 dark:text-white">DealDox Software pvt ltd.</h3>
+                        <p className="text-sm leading-3 text-gray-600 dark:text-white/80">March 2023-Jan 2025</p></div>
+                    <h3 data-aos="fade-right" className="my-4 text-lg text-gray-700 dark:text-white">SPM Global Technologies,Bengaluru</h3>
                     <p data-aos="fade-right" className="text-sm leading-6 text-gray-600 dark:text-white/80">Successfully delivered projects showcasing expertise in React,
                         Node.js, and MongoDB, contributing to enhanced user experiences
                         and streamlined processes. Collaborated effectively within
