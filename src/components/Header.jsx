@@ -12,7 +12,7 @@ const Header = () => {
         Hi! I'm Amulya</h3>
         <h1 className="text-2xl sm:text-4xl lg:text-[46px] font-Ovo"> <Type/></h1>
     {/* <h1 className="text-2xl sm:text-6xl lg:text-[56px] font-Ovo">Frontend Web Developer|React Developer.</h1> */}
-    <p data-aos="fade-right" className="max-w-2xl mx-auto font-Ovo">Passionate and creative Frontend Web Develope having proficiency in React. Attired with a variety of tools & technologies and keen to learn new one</p>
+    <p data-aos="fade-right" className="max-w-2xl mx-auto font-Ovo">Passionate and creative Frontend Web Developer having proficiency in React. Attired with a variety of tools & technologies and keen to learn new one</p>
     <div className="flex flex-col items-center gap-4 mt-4 sm:flex-row">
         <a href="#contact"
         className="px-10 py-3 border rounded-full bg-gradient-to-r from-[#b820e6] to-[#da7d20] text-white flex items-center gap-2 dark:border-transparent">
