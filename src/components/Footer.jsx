@@ -20,11 +20,11 @@ const Footer = () => {
                 <div className="flex items-center gap-2 mx-auto w-max">
                     <img src={mail_icon} alt="" className="w-6 dark:hidden" />
                     <img src={mail_icon_dark} alt="" className="hidden w-6 dark:block" />
-                    amulyaps2000@gmail.com
+                    amulyarajanna26@gmail.com
                 </div>
             </div>
             <div className="text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-12 py-6">
-                <p>© 2024 Amulya. All rights reserved.</p>
+                <p>© 2025 Amulya. All rights reserved.</p>
                 {/* <ul className="flex items-center justify-center gap-10 mt-4 sm:mt-0">
 
                     <li >
@@ -62,7 +62,7 @@ const Footer = () => {
   <li>
     <a
       target="_blank"
-     href="tel:+919972934208"
+     href="tel:+916361167894"
       className="relative py-2 mx-1 transition: width 0.2s ease-in hover:text-[#b820e6] hover:border-b-2 hover:border-[#b820e6]">
 
       <PhoneIcon className="duration-500" />

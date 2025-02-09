@@ -43,7 +43,7 @@ const About = () => {
                     <img src={code_icon_dark} alt="" className="hidden mt-3 w-7 dark:block"/>
 
                     <h3 className="my-4 font-semibold text-gray-700 dark:text-white">Languages</h3>
-                    <p className="text-sm text-gray-600 dark:text-white/80">HTML, CSS,Tailwind CSS,JavaScript React Js, Next Js </p>
+                    <p className="text-sm text-gray-600 dark:text-white/80">HTML, CSS,Tailwind CSS,JavaScript, React Js, Next Js, Node.js, Express, MongoDB. </p>
                 </li>
                 <li className="border-[0.5px] border-gray-400 rounded-xl p-6 cursor-pointer hover:bg-lightHover hover:-translate-y-1 duration-500 hover:shadow-black dark:border-white dark:hover:shadow-white dark:hover:bg-darkHover/50">
 

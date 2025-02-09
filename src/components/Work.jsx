@@ -25,7 +25,7 @@ const Work = () => {
                 </a>
             </div>
         </div>
-        <div className="aspect-square bg-[url('https://blogs.staffs.ac.uk/business/files/2020/01/chatbot-picture.png')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
+        <div className="aspect-square bg-[url('./assets/Chat-bot.jpg')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
 
             <div className="absolute flex items-center justify-between w-10/12 px-5 py-3 duration-500 -translate-x-1/2 bg-white rounded-md bottom-5 left-1/2 group-hover:bottom-7">
                 <div>
