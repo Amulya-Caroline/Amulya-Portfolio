@@ -28,9 +28,10 @@ const Services = () => {
 
                         <img src={cal1} alt="" className="w-4" />
 
-                        <p className="text-sm leading-3 text-gray-600 dark:text-white/80">March 2022-May 2022</p></div>
-                    <h3 data-aos="fade-right" className="my-4 text-lg text-gray-700 dark:text-white">Contriver</h3>
-                    <p data-aos="fade-right" className="text-sm leading-6 text-gray-600 dark:text-white/80">Developed frontend websites using HTML, CSS, and JavaScript for two projects, with a strong grasp of the ecosystem. Gained 3 months of corporate experience, mastering solution implementation and corporate etiquette in dynamic environments.</p>
+                        <p className="text-sm leading-3 text-gray-600 dark:text-white/80">March 2022-March 2023</p></div>
+                    <h3 data-aos="fade-right" className="my-4 text-lg text-gray-700 dark:text-white">Universal Softech Hub Pvt Ltd.</h3>
+                    {/* <p data-aos="fade-right" className="text-sm leading-6 text-gray-600 dark:text-white/80">Developed frontend websites using HTML, CSS, and JavaScript for two projects, with a strong grasp of the ecosystem. Gained 3 months of corporate experience, mastering solution implementation and corporate etiquette in dynamic environments.</p> */}
+                    <p data-aos="fade-right" className="text-sm leading-6 text-gray-600 dark:text-white/80">Led UI/UX projects using React.js, Redux, and Material UI, ensuring high performance and seamless user experiences. Collaborated with teams to align development with business goals and timely delivery. Proactively optimized workflows, mentored developers, and enhanced project efficiency.</p>
                     <a href="" data-aos="fade-right" className="flex items-center gap-2 mt-5 text-sm">Read more <img src={right_arrow} alt="" className="w-4" /></a>
                 </div>
                 <div className="px-8 py-4 duration-500 border border-gray-400 rounded-lg cursor-pointer hover:shadow-black hover:bg-lightHover hover:-translate-y-1 dark:hover:bg-darkHover dark:hover:shadow-white">
